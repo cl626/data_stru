@@ -1,0 +1,2 @@
+C:\Users\c1826\Desktop\数据结构\Unary polynomial\x64\Debug\Unary_polynomial.exe
+E:\课程实验\data_stru\Unary_polynomial\x64\Debug\Unary_polynomial.exe

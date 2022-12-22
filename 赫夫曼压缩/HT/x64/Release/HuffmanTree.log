@@ -1,0 +1,18 @@
+﻿  main.cpp
+F:\课程实验\data_stru\赫夫曼压缩\HT\ZBase64.h(18,30): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+F:\课程实验\data_stru\赫夫曼压缩\HT\ZBase64.h(19,28): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+F:\课程实验\data_stru\赫夫曼压缩\HT\ZBase64.h(59,28): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+F:\课程实验\data_stru\赫夫曼压缩\HT\ZBase64.h(69,57): warning C4267: “=”: 从“size_t”转换到“unsigned char”，可能丢失数据
+F:\课程实验\data_stru\赫夫曼压缩\HT\ZBase64.h(86,56): warning C4267: “=”: 从“size_t”转换到“unsigned char”，可能丢失数据
+F:\课程实验\data_stru\赫夫曼压缩\HT\codetransfer.h(17,30): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+F:\课程实验\data_stru\赫夫曼压缩\HT\codetransfer.h(60,30): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+F:\课程实验\data_stru\赫夫曼压缩\HT\fileop.h(16,19): warning C4244: “=”: 从“std::streamoff”转换到“int”，可能丢失数据
+F:\课程实验\data_stru\赫夫曼压缩\HT\fileop.h(11,16): warning C4101: “enter”: 未引用的局部变量
+F:\课程实验\data_stru\赫夫曼压缩\HT\fileop.h(114,30): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+F:\课程实验\data_stru\赫夫曼压缩\HT\main.cpp(40,9): warning C4101: “enter”: 未引用的局部变量
+  正在生成代码
+  0 of 1202 functions ( 0.0%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    0 functions had inline decision re-evaluated but remain unchanged
+  已完成代码的生成
+  HuffmanTree.vcxproj -> F:\课程实验\data_stru\赫夫曼压缩\HT\x64\Release\HuffmanTree.exe
